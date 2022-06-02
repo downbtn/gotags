@@ -1,6 +1,6 @@
 # gotags
 
-gotags is a [ctags][]-compatible tag generator for [Go][].
+gotags is a [ctags][]-compatible tag generator for [Go][]. This fork simply adds a go.mod file, so that gotags will actually build.
 
 [![Build Status][travis-badge]][travis-link]
 [![Report Card][report-badge]][report-link]
